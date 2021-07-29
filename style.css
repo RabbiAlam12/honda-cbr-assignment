@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color:#264653;
+    height: 698px;
+}
+.bike-section img{
+    width: 100%;
+}
+h1{
+    font-weight: 600;
+}
+span{
+    color: #E76F51;
+}
+#img-gray-scale{
+    filter: grayscale(100%);
+}
+.btn-read-more{
+    background-color: #E76F51;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.img-sizing img{
+    width: 250px;
+    height: 250px;
+    
+}
